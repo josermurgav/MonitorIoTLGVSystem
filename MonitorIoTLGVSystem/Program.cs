@@ -11,6 +11,7 @@ namespace MonitorIoTLGVSystem
     class Program
     {
         private static readonly string connStringDevice1 = "[Connection string device 1]";
+
         private static readonly string connStringDevice2 = "[Connection string device 2]";
 
         static void Main(string[] args)
