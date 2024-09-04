@@ -10,8 +10,8 @@ namespace MonitorIoTLGVSystem
 {
     class Program
     {
-        private static readonly string connStringDevice1 = "HostName=IotHubTFMLGVMonitor.azure-devices.net;DeviceId=AGVDevice1;SharedAccessKey=/yOnI0DO5yX6Exy7mBpDUM/ivz2BYB13bAIoTMUqZL4=";
-        private static readonly string connStringDevice2 = "HostName=IotHubTFMLGVMonitor.azure-devices.net;DeviceId=AGVDevice2;SharedAccessKey=GthumHniNwYU3THrb0kOh2oj+gCMmmIxFAIoTOiTRgI=";
+        private static readonly string connStringDevice1 = "[Connection string device 1]";
+        private static readonly string connStringDevice2 = "[Connection string device 2]";
 
         static void Main(string[] args)
         {
